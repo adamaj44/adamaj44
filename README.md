@@ -15,8 +15,7 @@
 
 🎯 **Currently Learning:** GitHub, Full Stack Development, and Web3  
 💡 **Skilled in:** Frontend Mastery + Backend Exploration  
-🧰 **Tools I Use:** VS Code & Android Studio  
-💬 **Languages I Speak:** Code, English, and a little bit of sarcasm  
+🧰 **Tools I Use:** VS Code & Android Studio   
 ⚡ **Goal:** Build cool stuff, learn fast, and make the web look better than it deserves  
 
 ---
