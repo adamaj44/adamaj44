@@ -1,26 +1,25 @@
-<!-- Header Banner -->
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Adam%20Anto%20Jose%20🛡️&fontSize=42&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Adam%20Anto%20Jose&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 </p>
 
-<!-- Typing Subtitle -->
+<!-- Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Cloud+Security+Engineer+🛡️;Top+9%25+Global+on+TryHackMe+🎯;CompTIA+Security%2B+Certified+📜;SIEM+%26+Identity+Automation+Builder+⚙️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Cloud+Security;CompTIA+Security%2B+Certified;TryHackMe+Top+9%25+Global;SIEM+%26+Identity+Management" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🛠️ About Me  
 
-🎓 **Education:** B.Tech in Computer Science & Engineering @ College of Engineering, Chengannur  
-📜 **Certification:** **CompTIA Security+** Certified  
-🎯 **Hands-on Focus:** SOC Monitoring, Identity & Access Management (IAM), Cloud Security, SIEM Engineering  
-🏆 **Global Ranking:** **Top 9%** on TryHackMe  
-⚡ **Goal:** Building automated security pipelines, hardening identity flows, and monitoring enterprise threats  
+* 🎓 **Education:** B.Tech in Computer Science and Engineering, College of Engineering, Chengannur
+* 📜 **Certification:** CompTIA Security+ Certified[cite: 1]
+* 🎯 **Focus Areas:** Cloud Security, Identity & Access Management (IAM), SIEM Monitoring, and Vulnerability Assessment[cite: 1]
+* 🏆 **Hands-on Labs:** Top 9% Global Ranking on TryHackMe[cite: 1]
 
 ---
 
-## 🧠 Technical Stack & Security Toolkit  
+## 💻 Technical Skills  
 
 <p align="center">
   <b>Languages & Scripting</b><br>
@@ -28,30 +27,14 @@
 </p>
 
 <p align="center">
-  <b>Cloud, Identity & Infrastructure</b><br>
+  <b>Cloud & Operating Systems</b><br>
   <img src="https://skillicons.dev/icons?i=azure,linux,windows" />
 </p>
 
 <p align="center">
-  <b>Security Tools & Frameworks</b><br>
-  <code>Splunk SIEM</code> • <code>Microsoft Entra ID</code> • <code>Wireshark</code> • <code>Snort</code> • <code>Suricata</code> • <code>OpenVAS</code> • <code>Nmap</code> • <code>Burp Suite</code> • <code>Metasploit</code> • <code>T-Pot</code>
+  <b>Security Tools & Concepts</b><br>
+  <code>Splunk</code> • <code>Microsoft Entra ID</code> • <code>Active Directory</code> • <code>Wireshark</code> • <code>Snort</code> • <code>Suricata</code> • <code>OpenVAS</code> • <code>Nmap</code> • <code>Burp Suite</code> • <code>T-Pot</code>[cite: 1]
 </p>
-
----
-
-## 📌 Featured Security Projects  
-
-* 🔷 **[Azure Automated Employee Onboarding Pipeline](https://github.com/adamaj44/azure-employee-onboarding-automator)**  
-  Event-driven JML identity automation pipeline built using **Azure Logic Apps** and **Microsoft Entra ID**. Includes IaC deployment definitions via **Bicep**, **ARM**, and **Terraform**.
-
-* 🔍 **SIEM & Endpoint Detection Lab (Splunk & Threat Simulation)**  
-  Configured **Sysmon**, **Snort**, and **OpenVAS** telemetry forwarded via **Splunk Universal Forwarder** to analyze simulated attack vectors (credential dumping, spear-phishing) from **Kali Linux**.
-
-* 🐝 **T-Pot Honeypot Virtual Lab**  
-  Deployed multi-honeypot framework on Linux Server to capture, analyze, and visualize global attack metrics and threat signatures using the **ELK Stack**.
-
-* 🔐 **Mini Certificate Authority (CA)**  
-  Implemented PKI principles using **OpenSSL** and **X.509** standards to issue, validate, and manage key lifecycles and digital certificates.
 
 ---
 
@@ -68,7 +51,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect  
 
 <p align="center">
   <a href="https://github.com/adamaj44">
