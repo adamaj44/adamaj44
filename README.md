@@ -13,9 +13,9 @@
 ## 🛠️ About Me  
 
 * 🎓 **Education:** B.Tech in Computer Science and Engineering, College of Engineering, Chengannur
-* 📜 **Certification:** CompTIA Security+ Certified[cite: 1]
-* 🎯 **Focus Areas:** Cloud Security, Identity & Access Management (IAM), SIEM Monitoring, and Vulnerability Assessment[cite: 1]
-* 🏆 **Hands-on Labs:** Top 9% Global Ranking on TryHackMe[cite: 1]
+* 📜 **Certification:** CompTIA Security+ Certified
+* 🎯 **Focus Areas:** Cloud Security, Identity & Access Management (IAM), SIEM Monitoring, and Vulnerability Assessment
+* 🏆 **Hands-on Labs:** Top 9% Global Ranking on TryHackMe
 
 ---
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <b>Security Tools & Concepts</b><br>
-  <code>Splunk</code> • <code>Microsoft Entra ID</code> • <code>Active Directory</code> • <code>Wireshark</code> • <code>Snort</code> • <code>Suricata</code> • <code>OpenVAS</code> • <code>Nmap</code> • <code>Burp Suite</code> • <code>T-Pot</code>[cite: 1]
+  <code>Splunk</code> • <code>Microsoft Entra ID</code> • <code>Active Directory</code> • <code>Wireshark</code> • <code>Snort</code> • <code>Suricata</code> • <code>OpenVAS</code> • <code>Nmap</code> • <code>Burp Suite</code> • <code>T-Pot</code>
 </p>
 
 ---
