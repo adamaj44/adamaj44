@@ -1,70 +1,70 @@
-<!-- 🔥 Adam's Flashy GitHub Profile README -->
-
-<!-- Profile Header -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Adam%20👨‍💻&fontSize=50&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Adam%20Anto%20Jose%20🛡️&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 </p>
 
+<!-- Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Adam+👋;Frontend+Architect+🧠;Backend+Builder+⚙️;Web3+Enthusiast+💠;Code.+Create.+Dominate.🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Cloud+Security+Engineer+🛡️;Top+9%25+Global+on+TryHackMe+🎯;CompTIA+Security%2B+Certified+📜;SIEM+%26+Identity+Automation+Builder+⚙️" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-🎯 **Currently Learning:** GitHub, Full Stack Development, and Web3  
-💡 **Skilled in:** Frontend Mastery + Backend Exploration  
-🧰 **Tools I Use:** VS Code & Android Studio   
-⚡ **Goal:** Build cool stuff, learn fast, and make the web look better than it deserves  
+🎓 **Education:** B.Tech in Computer Science & Engineering @ College of Engineering, Chengannur  
+📜 **Certification:** **CompTIA Security+** Certified  
+🎯 **Hands-on Focus:** SOC Monitoring, Identity & Access Management (IAM), Cloud Security, SIEM Engineering  
+🏆 **Global Ranking:** **Top 9%** on TryHackMe  
+⚡ **Goal:** Building automated security pipelines, hardening identity flows, and monitoring enterprise threats  
 
 ---
 
-## 🧠 Tech Stack  
+## 🧠 Technical Stack & Security Toolkit  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,golang,solidity" />
+  <b>Languages & Scripting</b><br>
+  <img src="https://skillicons.dev/icons?i=python,powershell,c,mysql" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,vscode,androidstudio,git,github" />
-</p>
-
----
-
-## ⚡ GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamaj44&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamaj44&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
+  <b>Cloud, Identity & Infrastructure</b><br>
+  <img src="https://skillicons.dev/icons?i=azure,linux,windows" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaj44&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
+  <b>Security Tools & Frameworks</b><br>
+  <code>Splunk SIEM</code> • <code>Microsoft Entra ID</code> • <code>Wireshark</code> • <code>Snort</code> • <code>Suricata</code> • <code>OpenVAS</code> • <code>Nmap</code> • <code>Burp Suite</code> • <code>Metasploit</code> • <code>T-Pot</code>
 </p>
 
 ---
 
-## 💻 Projects & Experiments  
+## 📌 Featured Security Projects  
 
-🔥 **Currently Working On:**  
-- Personal Portfolio Website  
-- Mini Blockchain using Solidity  
-- AI-Powered Feedback System  
+* 🔷 **[Azure Automated Employee Onboarding Pipeline](https://github.com/adamaj44/azure-employee-onboarding-automator)**  
+  Event-driven JML identity automation pipeline built using **Azure Logic Apps** and **Microsoft Entra ID**. Includes IaC deployment definitions via **Bicep**, **ARM**, and **Terraform**.
 
-🚀 **Future Goals:**  
-- Build Scalable Full Stack Apps  
-- Create Open Source Tools  
-- Work on Tech That Actually Helps People  
+* 🔍 **SIEM & Endpoint Detection Lab (Splunk & Threat Simulation)**  
+  Configured **Sysmon**, **Snort**, and **OpenVAS** telemetry forwarded via **Splunk Universal Forwarder** to analyze simulated attack vectors (credential dumping, spear-phishing) from **Kali Linux**.
+
+* 🐝 **T-Pot Honeypot Virtual Lab**  
+  Deployed multi-honeypot framework on Linux Server to capture, analyze, and visualize global attack metrics and threat signatures using the **ELK Stack**.
+
+* 🔐 **Mini Certificate Authority (CA)**  
+  Implemented PKI principles using **OpenSSL** and **X.509** standards to issue, validate, and manage key lifecycles and digital certificates.
 
 ---
 
-## 🧰 My Dev Setup  
+## 📊 GitHub Stats  
 
-💻 **Laptop:** ASUS TUF  
-🧠 **Editor:** VS Code / Android Studio  
-🎨 **Theme:** One Dark Pro (with glow effects, because plain text is boring)  
-🎧 **Focus Mode:** Lo-fi + Debugging = Clarity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adamaj44&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamaj44&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaj44&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+</p>
 
 ---
 
@@ -84,19 +84,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation eating my contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <b>⚡ “Keep coding. Keep glowing. Persistence > Perfection.” ⚡</b>
-</p>
-
